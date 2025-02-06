@@ -1,5 +1,6 @@
-## Hi there 👋
+👋 Hi, I'm Vidyanand Yashwant Jadhav, an aspiring Web Developer with a passion for building web applications. I specialize in PHP, MySQL, HTML, CSS, and JavaScript, and I'm continuously learning new technologies.
 
+💡 I have a foundational understanding of Agile Project Management and DevOps principles, which helps me in organizing and streamlining development workflows.
 <!--
 **VidyanandJadhav/VidyanandJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
